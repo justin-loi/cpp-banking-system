@@ -1,2 +1,2 @@
 # cpp-banking-system
-Rewritten Banking System in C++
+Banking System rewritten in C++ for ICS 212
